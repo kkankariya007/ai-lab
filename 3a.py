@@ -1,4 +1,4 @@
-#EXP 3
+#CRYPT arithmetic
 import re
 solved = False
 def solve(letters, values, visited, words):

@@ -1,4 +1,4 @@
-#EXP 4
+#EXP BFS
 from collections import deque
 
 def BFS(a, b, target):

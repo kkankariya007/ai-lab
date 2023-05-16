@@ -1,4 +1,5 @@
-#exp 6
+#Monty Hall
+
 import random 
 from tkinter import StringVar , Label, Tk, Entry
 

@@ -67,3 +67,13 @@ async def des():
 async def des():
     file_p="./7b.py"
     return FileResponse(file_p)
+
+@app.get("/9")
+async def des():
+    file_p="./9.py"
+    return FileResponse(file_p)
+
+@app.get("/10")
+async def des():
+    file_p="./10.py"
+    return FileResponse(file_p)
